@@ -23,10 +23,12 @@ cd Simple-node-nginx-docker
 ```sh
 docker-compose up -d
 ```
+
 -To check running containers
 ```sh
 docker ps
 ```
+
 -If you're running on a local machine than hit localhost
 -If you're running on a remote machine than hit the Ip-Address
 
