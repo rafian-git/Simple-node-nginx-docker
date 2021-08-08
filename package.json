@@ -1,5 +1,5 @@
 {
-  "name": "sample-node-app",
+  "name": "Simple-node-nginx-docker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

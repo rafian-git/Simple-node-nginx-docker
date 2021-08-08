@@ -29,10 +29,10 @@ docker-compose up -d
 docker ps
 ```
 
--If you're running on a local machine than hit localhost
--If you're running on a remote machine than hit the Ip-Address
+- If you're running on a local machine than hit localhost
+- If you're running on a remote machine than hit the Ip-Address
 
--To bind it with a domain change the below line in `proxy.conf`
+- To bind it with a domain change the below line in `proxy.conf`
 ```sh
 server_name myapp.com www.myapp.com;
 ```
